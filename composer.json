@@ -1,5 +1,5 @@
 {
-  "name": "zed/instagram",
+  "name": "zedmarley/instagramAPI",
   "autoload": {
     "psr-4": {
       "Instagram\\": "src/"
