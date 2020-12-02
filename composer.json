@@ -1,5 +1,5 @@
 {
-  "name": "zedmarley/instagram",
+  "name": "zed/instagram",
   "autoload": {
     "psr-4": {
       "Instagram\\": "src/"
