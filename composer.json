@@ -1,0 +1,8 @@
+{
+  "name": "zedmarley/instagram",
+  "autoload": {
+    "psr-4": {
+      "Instagram\\": "src/"
+    }
+  }
+}
